@@ -64,3 +64,4 @@ wwPower:wwPower
 aaUser:pwUser
 wwUser:wwUser
 sa:#SAPassword!
+infodba:infodba
